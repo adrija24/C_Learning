@@ -26,15 +26,20 @@ int main()
    int m, n;
    m = 34;
    n = 34;
-    printf("m + n = %d\n", m==n);
+    printf("m == n = %d\n", m==n);
 
 
 
    int g, f;
    g = 45;
    f = 6;
-    printf("g + f = %d\n", g&&f);
+    printf("g && f = %d\n", g&&f);
 
+    int s, t;
+    s = 0;
+    t = 0;
+    
+    printf("s || t = %d\n", s||t);
     
 
    
