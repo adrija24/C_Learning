@@ -36,8 +36,8 @@ int main()
     printf("g && f = %d\n", g&&f);
 
     int s, t;
-    s = 0;
-    t = 0;
+    s = 46;
+    t = 34;
     
     printf("s || t = %d\n", s||t);
 
