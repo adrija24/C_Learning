@@ -40,6 +40,13 @@ int main()
     t = 0;
     
     printf("s || t = %d\n", s||t);
+
+    int j, k;
+    j = 40;
+    k = 34;
+
+    printf("j ! k = %d\n", !k);
+
     
 
    
