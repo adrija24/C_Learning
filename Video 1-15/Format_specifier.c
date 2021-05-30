@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define Q 30
 
 int main(int argc, char const *argv[])
 {
@@ -20,6 +21,8 @@ int main(int argc, char const *argv[])
 
     const int p = 24;
     //p = 30;(This is wrong....."Because 'p' is Constant")
+
+    //Q = 45;(This is also wrong..."Because here 'Q' is also constant")
 
 
 
