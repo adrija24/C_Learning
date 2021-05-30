@@ -23,6 +23,13 @@ int main(int argc, char const *argv[])
     //p = 30;(This is wrong....."Because 'p' is Constant")
 
     //Q = 45;(This is also wrong..."Because here 'Q' is also constant")
+     
+    printf("Escape sequences \\ \n");
+    printf("Escape sequences \\n \n");
+    printf("Escape sequences \a \n");
+    printf("Escape \t\t\t sequences ");
+    
+     
 
 
 
