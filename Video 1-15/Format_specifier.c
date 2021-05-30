@@ -18,6 +18,9 @@ int main(int argc, char const *argv[])
     printf("%12.4f space\n", b );
     printf("%-12.4f space\n", b );
 
+    const int p = 24;
+    //p = 30;(This is wrong....."Because 'p' is Constant")
+
 
 
 
