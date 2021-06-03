@@ -9,9 +9,23 @@ int main()
     printf("You have entered %d as your age\n", age);
     if (age > 18)
     {
-        printf("You can vote!");
+        printf("You can vote!\n");
+    }
+
+    int year;
+    printf("Enter your age\n");
+    scanf("%d", &year);
+
+    if (year > 6)
+    {
+        printf("You can go there.");
+    }
+    else
+    {
+        printf("You can't go there.");
     }
     
+       
     
     
     
