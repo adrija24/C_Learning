@@ -2,7 +2,7 @@
 
 int main()
 {
-    /* int age;
+ int age;
     printf("Enter your age\n");
     scanf("%d", &age);
 
@@ -27,8 +27,8 @@ int main()
     }
     
       //If-else if Statement....the last 'Else' is not essential, you can only enter 'If' and
-    'Else if
-      */
+    //'Else if'......and you can also add many 'Else if'....
+    
     int a;
     printf("Enter your age\n");
     scanf("%d", &a);
