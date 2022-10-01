@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge)
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=f5e856&colorB=ffa526&style=for-the-badge)
 
-# Learning C Programming :computer: :codingninjas:
+# Learning C Programming :dart:
 
 * Video 1-20
 * Video 21-40
