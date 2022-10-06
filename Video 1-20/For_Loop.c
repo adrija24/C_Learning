@@ -1,3 +1,5 @@
+// this is an example of for loop
+
 #include <stdio.h>
 
 int main()
