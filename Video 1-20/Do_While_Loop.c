@@ -1,3 +1,5 @@
+// it's a do-while loop example
+
 #include <stdio.h>
 
 int main()
